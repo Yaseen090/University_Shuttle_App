@@ -1,7 +1,7 @@
 # University_Shuttle_App (Work In Progress)
-## 2D Matrix Calculator
 ## About
-“2D Matrix Calculator” is a university project that was assigned to us. The task was to find a problem that students face and make a solution about it so I came up with an idea of making an App that lets students see the Buses, Points and Shuttles that are primary transportaion for students. Many times students miss these transporations because they don't know where these are right in the moment around there city.
+“University_Shuttle_Ap” is a university project that was assigned to us. The task was to find a problem that students face and make a solution about it so I came up with an idea of making an App that lets students see the Buses, Points and Shuttles that are primary transportaion for students.<br/>
+Many times students miss these transporations because they don't know where these are right in the moment around there city.<br/>
 Every Driver will have a mobile with location service on and students can see for themselves how to manage their time and location to always get benifit of these facilities 
 ## Features
 Sign In with University provisioned IDs and Passwords. <br/>
